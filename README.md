@@ -7,6 +7,7 @@ How to generate service account key:
 2. From the menus, select service account.
 3. Admin SDK configuration snippet, select java, press the button "Generate new private key".
 4. The key will be loaded, add it to your project. (Don't share it with versioning repo)
-5. Inside FirebaseInitialize.java file add your serviceAccount file name and set your project URL in next option (FirebaseOption)
+5. Inside FirebaseInitialize.java file add your serviceAccount file name and set your project URL in next option (FirebaseOption).
+
 The MySql database is also configured with the project.
 Swagger is also added.
